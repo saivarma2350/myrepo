@@ -1,0 +1,7 @@
+apiVersion: V1
+kind: Secret
+type: Tls
+data:
+ cert: hsmnabbdnsbdsbmcbsnxbsmxz xhx bx nsmnsndmsbs nsbm xbsvcmsncdbc d msnxjksvcbd ce dcbjbnjvebvjkwedbvbfvhrfhvfjr4fbrfvf4rfnde vcdbvlcjvjfbednv wdbvjfefbfrv bef vbwef vhjjedbvwerf vnmcd v
+ data: wdbcsdgjcvedjbc jedchjdebcbdechedgfir4gknefvur4hgmdl fedfhlnfdbvjefmnde vhdefbms fnefjb4hjvedjv24hifhejldedvje2hfnwd vhenbhjwvchjedvcjedc
+
